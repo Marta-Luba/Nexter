@@ -1,6 +1,6 @@
 # Nexter
 
-##Check Here ==> https://nexter-project-luba.netlify.app
+##Check Here ==> https://marta-luba.github.io/Nexter/
 
 ##Technologies
 
